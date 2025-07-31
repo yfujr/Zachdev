@@ -12,6 +12,6 @@ I'm a high schooler who loves space, coding, and building cool stuff
 
 
 ## 🌐 My Site
-- [zachdev.github.io](https://Zachdev.github.io)
+- [Zachdev](https://github.com/yfujr/Zachdev.github.io)
 
 More coming soon!
